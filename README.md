@@ -14,4 +14,4 @@ Baza de date comună a fost prelucrată în Microsoft Excel și a stat la baza c
 - Analiza evoluției divorțurilor în timp
 - Oferirea unui dashboard interactiv și intuitiv pentru interpretarea rapidă a datelor
 
- Vizualizări realizate - cronograme, barchart-uri,harti, heatmap, histograma, packed bubbles, pie chart-uri, treemap, etc. 
+ Vizualizări realizate - cronograme, barchart-uri, harti, heatmap, histograma, packed bubbles, pie chart-uri, treemap. 
